@@ -1,0 +1,131 @@
+body {
+    background-color: black;
+}
+
+.post {
+    background-color: white;
+    height: 700px;
+    width: 500px;
+    margin: 50px auto;
+}
+
+.post-header {
+    display: flex;
+
+}
+
+.logo {
+    width:5%;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.titles {
+    width: 80%;
+    padding-top: 2.5%;
+    padding-left: 2.3%;
+}
+
+.menu {
+    width: 10%;
+    padding-top: 5%;
+}
+
+.title1 {
+    margin-bottom: 0;
+    margin-top: 10px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.title2 {
+    margin-top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.html5-logo {
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.menu-icon {
+
+}
+
+.post-image img{
+    width: 100%;
+    height: auto;
+    object-fit:cover;
+    display: flex;
+
+}
+
+.post-footer {
+    width: 100%;
+    height: 50px;
+    object-fit: cover;
+}
+
+.liked {
+    padding-top: 2%;
+    padding-left: 6%;
+    padding-right: 5%;
+}
+
+.description {
+    padding-top: 2%;
+    padding-left: 6%;
+    padding-right: 4%;
+}
+
+.icon-wrapper {
+   
+    display: flex;
+    padding-left: 6%;
+    gap:17px;
+    padding-top: 3%;
+    
+ 
+}
+
+.icon {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.save-icon {
+    font-size: 30px;
+    cursor: pointer;
+    padding-left: 58%;
+}
+
+
+
+
+
+.comments {
+    width: 7%;
+    height: 50px;
+    object-fit: cover;
+    padding-left: 20%;
+    padding-bottom: 40%;
+}
+
+
+.send {
+    width: 7%;
+    height: 10px;
+    object-fit: cover;
+    padding-left: 20%;
+    padding-bottom: 40%;
+}
+
+.save {
+    width: 7%;
+    height: 10px;
+    object-fit: cover;
+    padding-left: 20%;
+    padding-bottom: 40%;
+}
